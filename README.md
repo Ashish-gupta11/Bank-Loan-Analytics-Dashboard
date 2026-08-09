@@ -110,7 +110,7 @@ Some important observations from the dashboard are:
 ### Summary Page
 ![Summary Dashboard](Screenshots/Summary.png)
 ### Overview Page
-![Overview Dashboard](Screenshots/Overview.png)
+Overview-dashboard.png
 ---
 
 ## 📁 Project Structure
