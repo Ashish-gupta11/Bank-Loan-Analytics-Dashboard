@@ -108,9 +108,9 @@ Some important observations from the dashboard are:
 ---
 ## 📷 Dashboard Preview
 ### Summary Page
-![Summary Dashboard](Screenshots/Summary.png)
+![Summary Dashboard](Summary-dashboard.png)
 ### Overview Page
-Overview-dashboard.png
+![Overview Dashboard](Overview-dashboard.png)
 ---
 
 ## 📁 Project Structure
