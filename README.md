@@ -126,12 +126,12 @@ bank-loan-analytics-powerbi/
 │   └── bank_loan_data.csv
 │
 ├── Screenshots/
-│   ├── Summary.png
-│   └── Overview.png
+│   ├── Summary-dashboard.png
+│   └── Overview-dashboard.png
 │
 ---
 ## Author
 Ashish Gupta
 ---
 └── Documentation/
-    └── Bank_Loan_Analytics_Projecf
+    └── Bank_Loan_Analytics_Project
