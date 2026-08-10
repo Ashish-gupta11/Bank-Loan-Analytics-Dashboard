@@ -97,6 +97,15 @@ The Overview page provides detailed analysis of:
 - Home Ownership
 - Loan Purpose
 ---
+## 🔍 Key Insights
+Some important observations from the dashboard are:
+1. Good loans account for approximately 86% of total loan applications.
+2. Bad loans account for approximately 14% of total applications.
+3. The total received amount is higher than the total funded amount.
+4. Debt Consolidation represents the largest loan application purpose.
+5. Rent and Mortgage customers represent the majority of applications based on home ownership.
+6. Loan applications show an increasing monthly trend toward the end of the year.
+---
 ## 📷 Dashboard Preview
 ### Summary Page
 ![Summary Dashboard](Summary-dashboard.png)
@@ -121,15 +130,8 @@ bank-loan-analytics-powerbi/
 │   └── Overview.png
 │
 ---
-## Key Insights
-- Majority of loans are categorized as good loans.
-- Debt Consolidation has the highest loan applications.
-- Fully Paid loans contribute the highest repayment amount.
-- Mortgage and Rent categories dominate home ownership applications.
----
 ## Author
 Ashish Gupta
 ---
-
 └── Documentation/
-    └── Bank_Loan_Analytics_Project.pdf
+    └── Bank_Loan_Analytics_Projecf
